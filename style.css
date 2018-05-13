@@ -1,4 +1,11 @@
 body
 {
-  color: grey;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 12pt;
+}
+
+.header
+{
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
