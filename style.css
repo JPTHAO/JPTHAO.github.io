@@ -3,7 +3,10 @@ body
   font-family: helvetica, arial, sans-serif;
   font-size: 12pt;
 }
-
+.header
+{
+  background: #cccccc;
+}
 p.header
 {
   margin-top: 0px;
