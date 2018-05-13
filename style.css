@@ -7,6 +7,10 @@ body
 {
   background: #cccccc;
 }
+.education
+{
+  background: pink;
+}
 p.header
 {
   margin-top: 0px;
