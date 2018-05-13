@@ -6,10 +6,7 @@ body
 .header
 {
   background: #cccccc;
-}
-.EDUCATION
-{
-  background: pink;
+  padding: 10px;
 }
 p.header
 {
